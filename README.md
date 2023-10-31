@@ -21,6 +21,7 @@
 #### :pencil2: Study log
  
   <br/>
-  
+  [![Secripite's GitHub stats](https://github-readme-stats.vercel.app/api?username=secripite)](https://github.com/secripite/github-readme-stats)
+
 
 </div>
