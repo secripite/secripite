@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Cylinder&text=Secripite)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=#81A3D0&text=Secripite)
 
 </div>
 <!--
