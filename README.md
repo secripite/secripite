@@ -22,6 +22,5 @@
  
   <br/>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=secripite7&layout=compact)](https://github.com/secripite/github-readme-stats)
 
 </div>
