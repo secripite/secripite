@@ -13,16 +13,5 @@
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
- 
-  <br/>
-  <br/>
- 
-  #### :pencil2: Study log
-  # 
-  <br/>
-  ![Secripite's GitHub stats](https://github-readme-stats.vercel.app/api?username=secripite&show_icons=true&theme=tokyonight)
-
-  <br/>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=secripite&layout=compact&theme=tokyonight)
   
 </div>
