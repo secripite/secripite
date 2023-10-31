@@ -21,6 +21,8 @@
   # 
   <br/>
   ![Secripite's GitHub stats](https://github-readme-stats.vercel.app/api?username=secripite&show_icons=true&theme=tokyonight)
+
+  <br/>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=secripite&layout=compact&theme=tokyonight)
   
 </div>
